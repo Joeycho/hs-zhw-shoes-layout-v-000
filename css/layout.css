@@ -50,5 +50,5 @@
 }
 
 .border_right {
-  display: inline;
+  display: inline-block;
 }
