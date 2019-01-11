@@ -30,10 +30,12 @@
 /*Columning*/
 .col-1 {
   float: left;
+  display: inline-block;
   width: 32%;
 }
 .col-2 {
   float: left;
+  display: inline-block;
   width: 66%;
 }
 
