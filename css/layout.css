@@ -52,3 +52,7 @@
 .border_right {
   display: inline-block;
 }
+
+#details {
+  text-align: center;
+}
