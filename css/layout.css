@@ -23,5 +23,9 @@
 }
 
 /* Positioning Classes */
-
+#social {
+  position: fixed;
+  right:2px;
+  top: 5px;
+}
 
