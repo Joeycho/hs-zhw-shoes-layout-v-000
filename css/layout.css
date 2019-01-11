@@ -10,11 +10,10 @@
 }
 
 .clearfix:after {
-  content: "WOW";
-  display: block;
+  content: ".";
+  display:block;
   clear: both;
-  visibility:visible;
-  background: blue;
+  visibility:hidden;
   height: 0;
   line-height: 0;
 }
