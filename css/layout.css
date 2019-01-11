@@ -50,5 +50,5 @@
 }
 
 .border_right {
-  float:left;
+  display: inline-block;
 }
