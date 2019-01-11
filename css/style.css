@@ -270,6 +270,7 @@ section a {
 
 #details {
   margin: 0 auto;
+  background-color: blue;
   clear:both;
   padding: 20px 10px;
   /* gradient */
