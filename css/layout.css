@@ -18,6 +18,9 @@
   height: 0;
   line-height: 0;
 }
+#deal {
+  background-color: red;
+}
 
 .clear {
   clear: both;
